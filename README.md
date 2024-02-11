@@ -1,34 +1,33 @@
-I Am Rich App
+# I Am Rich App
 
-Introduction
+## Introduction
 The "I Am Rich" app is a recreation of the infamous iOS application that became widely known for its high price tag and minimal functionality. This version aims to replicate the original concept using UIKit on the iOS platform.
 
-Tech Stack
+## Tech Stack
 - Swift programming language
 - UIKit framework
 
-Features
+## Features
 - Display a glowing diamond on the screen, mimicking the original app's appearance.
 - Minimalist design to emphasize the app's concept.
 
-Process
+## Process
 1. **Conceptualization**: Understanding the original app's concept and planning the recreation process.
 2. **Development**: Implementing the UI and functionality using Swift and UIKit.
 3. **Testing**: Ensuring the app works as intended and resembles the original concept.
 
-Learnings
+## Learnings
 - Understanding of UIKit framework for iOS app development.
 - Experience in recreating existing concepts in a new environment.
-- Gained experience in managing and working with view controllers. 
 
-Improvement
+## Improvement
 - Adding customization options for users.
 - Incorporating additional features to make the app more interactive.
 
-Instructions on How to Run It
+## Instructions on How to Run It
 1. Clone the repository to your local machine.
 2. Open the Xcode project file.
 3. Build and run the project on a simulator or a physical iOS device.
 
-Image of the Result
+## Image of the Result
 ![Simulator Screenshot - iPhone 15 Pro - 2024-02-11 at 15 20 40](https://github.com/Aziza0508/iAmRich/assets/112758271/0863132e-37fb-49a6-92d1-dcf577412d38)
